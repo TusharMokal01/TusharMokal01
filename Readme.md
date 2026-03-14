@@ -200,7 +200,7 @@ https://github.com/TusharMokal01/express-jwt-auth
 Scalable backend API for generating and managing shortened URLs.
 
 Repository
-https://github.com/TusharMokal01/express-url-shortner
+https://github.com/TusharMokal01/express-url-shortener
 
 
 ---
