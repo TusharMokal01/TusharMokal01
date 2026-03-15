@@ -1,6 +1,9 @@
 👋 Hi, I'm Tushar Mokal
 
-<img src="https://komarev.com/ghpvc/?username=TusharMokal01&label=Profile%20Views&color=0e75b6&style=flat" /><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=4F8CC9&center=false&vCenter=true&width=700&lines=MERN+Stack+Developer;Full-Stack+Engineer;Backend+Focused+Web+Developer;Building+Scalable+APIs+and+AI+Powered+Applications;React+%7C+Node+%7C+PostgreSQL+%7C+MongoDB" />💻 Full-Stack MERN Developer focused on designing scalable backend systems, secure APIs, and modern AI-powered web applications.
+<img src="https://komarev.com/ghpvc/?username=TusharMokal01&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=4F8CC9&center=false&vCenter=true&width=700&lines=MERN+Stack+Developer;Full-Stack+Engineer;Backend+Focused+Web+Developer;Building+Scalable+APIs+and+AI+Powered+Applications;React+%7C+Node+%7C+PostgreSQL+%7C+MongoDB" />
+
+💻 Full-Stack MERN Developer focused on designing scalable backend systems, secure APIs, and modern AI-powered web applications.
 
 I specialize in building robust backend architectures using Node.js, Express, PostgreSQL, and MongoDB, while delivering high-performance user interfaces using React and Vite.
 
