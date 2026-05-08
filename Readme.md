@@ -1,257 +1,245 @@
-👋 Hi, I'm Tushar Mokal
+# 👋 Hi, I'm Tushar Mokal
 
 <img src="https://komarev.com/ghpvc/?username=TusharMokal01&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=4F8CC9&center=false&vCenter=true&width=700&lines=MERN+Stack+Developer;Full-Stack+Engineer;Backend+Focused+Web+Developer;Building+Scalable+APIs+and+AI+Powered+Applications;React+%7C+Node+%7C+PostgreSQL+%7C+MongoDB" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=4F8CC9&center=false&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Backend+Focused+Engineer;Building+Scalable+REST+APIs;Node.js+%7C+React+%7C+PostgreSQL+%7C+MongoDB;Learning+System+Design+%26+Scalable+Architectures" />
 
-💻 Full-Stack MERN Developer focused on designing scalable backend systems, secure APIs, and modern AI-powered web applications.
+💻 Full-Stack MERN Developer with 1+ year of professional experience building scalable backend systems and REST APIs in the e-commerce domain.
 
-I specialize in building robust backend architectures using Node.js, Express, PostgreSQL, and MongoDB, while delivering high-performance user interfaces using React and Vite.
+I specialize in backend development using Node.js, Express.js, PostgreSQL, and MongoDB while also building responsive frontend applications using React.js.
 
-My development philosophy emphasizes clean architecture, secure authentication systems, scalable API design, and integrating Generative AI into real-world applications.
-
-🌐 Portfolio
-https://tusharmokal.vercel.app
-
-🚀 Open to Backend / Full Stack / MERN Developer opportunities
-
+Currently working as a Junior Full Stack Engineer where I primarily build and maintain APIs, backend business logic, authentication systems, and technical API documentation for frontend integrations.
 
 ---
 
-👨‍💻 About Me
+# 🚀 About Me
 
-🚀 Full-stack developer focused on scalable backend architectures
-
-🔐 Experienced in building secure REST APIs with authentication & authorization
-
-⚡ Develop high-performance React applications
-
-🤖 Building Generative AI powered web interfaces
-
-🧠 Interested in backend engineering, system design, and distributed architectures
-
-📈 Continuously learning AI workflows, backend scalability, and performance optimization
-
-
+- 💼 Junior Full Stack Engineer (MERN)
+- 🔐 Experienced with authentication & authorization systems
+- ⚡ Backend-focused developer with frontend experience
+- 🧠 Strong interest in backend engineering & scalable architectures
+- 🛠 Building REST APIs using Node.js & Express.js
+- 🗄 Working with PostgreSQL & MongoDB
+- 📄 Writing API documentation & integration references
+- ☁️ Familiar with Docker, deployment workflows & AWS EC2 concepts
+- 📈 Continuously learning backend scalability, system design & performance optimization
 
 ---
 
-🧠 Tech Stack
+# 🧠 Tech Stack
 
-Frontend
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind" />
-</p>Modern UI development using React, component-driven architecture, and performant frontend tooling.
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind" />
+</p>
 
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- TailwindCSS
+- Responsive UI Development
 
 ---
 
-Backend
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
-</p>Building RESTful APIs, authentication systems, backend services, and scalable server architectures.
+  <img src="https://skillicons.dev/icons?i=nodejs,express,bun" />
+</p>
 
+- Node.js
+- Express.js
+- REST API Development
+- Authentication & Authorization
+- Backend Architecture
+- Middleware & Error Handling
 
 ---
 
-Databases
+## Databases & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>Designing efficient data models, optimized queries, and scalable persistence layers.
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
 
-
----
-
-AI & GenAI
-
-Building applications powered by Large Language Models and Generative AI workflows.
-
-Technologies
-
-OpenRouter API
-
-Prompt-driven interfaces
-
-LLM integration in web apps
-
-AI assisted UI generation
-
-
+- PostgreSQL
+- MongoDB
+- Drizzle ORM
+- Database Design
+- Query Optimization
 
 ---
 
-Tools & Developer Infrastructure
+## Tools & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>Developer tooling for version control, containerized deployments, API testing, and efficient workflows.
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
 
-
----
-
-🚀 Featured Projects
-
-🤖 PromptAI – GenAI UI Generator
-
-A Generative AI powered platform that converts natural language prompts into functional UI components, accelerating modern frontend development workflows.
-
-Tech
-
-React (Vite)
-OpenRouter API
-TailwindCSS
-Component-Driven Architecture
-
-Key Features
-
-Prompt → UI generation
-
-LLM powered component creation
-
-Rapid UI prototyping
-
-Scalable frontend architecture
-
-
+- Git & GitHub
+- Docker
+- Postman
+- VS Code
+- AWS EC2 (Basic Knowledge)
 
 ---
 
-🔐 Authentication Systems (JWT + Sessions)
+# 💼 Professional Experience
 
-A production-ready backend authentication architecture supporting both JWT authentication and session-based authentication.
+## Junior Full Stack Engineer (MERN)
+### E-Commerce Domain Company | Jul 2025 – Present
 
-Tech
-
-Node.js
-Express
-PostgreSQL
-
-Key Features
-
-JWT authentication
-
-Session-based authentication
-
-Role Based Access Control (RBAC)
-
-Middleware-driven authorization
-
-Secure protected API routes
-
-Modular backend architecture
-
-
+- Building and maintaining scalable REST APIs using Node.js and Express.js
+- Working on backend business logic, authentication flows, and API integrations
+- Creating API documentation for frontend integration workflows
+- Handling database operations using MongoDB and PostgreSQL
+- Collaborating with frontend developers and backend teams in agile workflows
+- Supporting frontend development using React.js when required
 
 ---
 
-🔗 URL Shortener
+## Full Stack Developer Intern
+### E-Commerce Domain Company | Jan 2025 – Jun 2025
 
-A backend service for generating and managing short URLs built using scalable REST API architecture.
-
-Key Features
-
-Short link generation engine
-
-High-performance redirection system
-
-Persistent database storage
-
-RESTful API design
-
-Clean backend service architecture
-
-
+- Started with frontend development using HTML, CSS, JavaScript, and React.js
+- Built reusable UI components and responsive interfaces
+- Learned MERN stack technologies while contributing to production projects
+- Gradually transitioned into backend development using Node.js and Express.js
+- Worked with APIs, routing, middleware, and database integrations
 
 ---
 
-🏗️ Production Projects
+# 🚀 Featured Projects
 
-🤖 PromptAI – GenAI UI Generator
+## 🔗 URL Shortener API
 
-AI platform that transforms natural language prompts into UI components, enabling faster UI development with LLM-powered workflows.
+A secure and scalable backend application built using Express.js, PostgreSQL, and Drizzle ORM with JWT-based authentication.
 
-Tech Stack
+### Tech Stack
 
-React • Node.js • OpenRouter • TailwindCSS
+- Node.js
+- Express.js
+- PostgreSQL
+- Drizzle ORM
+- JWT
+- Zod
+- Docker
 
-Live Project
-https://createuiwithpromptui.vercel.app
+### Key Features
 
+- JWT Authentication
+- Secure Password Hashing
+- URL Shortening & Redirection
+- Protected Routes
+- Layered Backend Architecture
+- User-specific URL Management
+- Dockerized PostgreSQL Setup
+- Zod Request Validation
 
-Repository
-https://github.com/TusharMokal01/prompt-ui
+### Repository
 
-
-
----
-
-🔐 Authentication Systems
-
-Backend authentication service supporting JWT and session-based login flows.
-
-Repository
-https://github.com/TusharMokal01/express-session-auth
-
-https://github.com/TusharMokal01/express-jwt-auth
-
----
-
-🔗 URL Shortener
-
-Scalable backend API for generating and managing shortened URLs.
-
-Repository
-https://github.com/TusharMokal01/express-url-shortener
-
+- https://github.com/TusharMokal01/express-url-shortener
 
 ---
 
-📊 GitHub Analytics
+## 🤖 PromptAI – GenAI UI Generator
+
+A Generative AI powered platform that converts natural language prompts into functional UI components.
+
+### Tech Stack
+
+- React (Vite)
+- OpenRouter API
+- TailwindCSS
+
+### Key Features
+
+- Prompt → UI Generation
+- AI Powered Component Creation
+- Rapid UI Prototyping
+- Modern Frontend Architecture
+
+### Live Project
+
+- https://createuiwithpromptui.vercel.app
+
+### Repository
+
+- https://github.com/TusharMokal01/prompt-ui
+
+---
+
+## 🔐 Authentication Systems (JWT + Sessions)
+
+Production-ready authentication systems supporting both JWT and session-based authentication.
+
+### Tech Stack
+
+- Node.js
+- Express.js
+- PostgreSQL
+
+### Key Features
+
+- JWT Authentication
+- Session-based Authentication
+- Role Based Access Control (RBAC)
+- Protected API Routes
+- Middleware-driven Authorization
+
+### Repositories
+
+- https://github.com/TusharMokal01/express-session-auth
+- https://github.com/TusharMokal01/express-jwt-auth
+
+---
+
+# 📊 GitHub Analytics
 
 <p>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=TusharMokal01&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharMokal01&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
-🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharMokal01&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
-📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharMokal01&theme=tokyo-night&hide_border=true"/>
 </p>
----
-
-🌐 Connect With Me
-
-Portfolio
-https://tusharmokal.vercel.app
-
-GitHub
-https://github.com/TusharMokal01
-
-LinkedIn
-https://www.linkedin.com/in/tushar-mokal
-
 
 ---
 
-⚡ Developer Philosophy
+# 🌐 Connect With Me
 
-Design scalable backend systems
-Write clean and maintainable code
-Build secure APIs and reliable services
-Integrate AI to solve real problems
-Ship impactful software
-Continuously learn and improve
+### Portfolio
+- https://tusharmokal.vercel.app
 
+### GitHub
+- https://github.com/TusharMokal01
+
+### LinkedIn
+- https://www.linkedin.com/in/tushar-mokal
+
+---
+
+# ⚡ Developer Philosophy
+
+- Build scalable backend systems
+- Write clean and maintainable code
+- Design secure APIs and reliable services
+- Learn continuously and improve consistently
+- Focus on practical and production-ready development
+- Build impactful software with modern technologies
 
 ---
